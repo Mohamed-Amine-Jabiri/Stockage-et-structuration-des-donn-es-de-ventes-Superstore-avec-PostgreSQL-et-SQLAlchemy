@@ -214,4 +214,3 @@ Les tests vérifient notamment :
 * l'existence des clients liés aux commandes ;
 * l'existence des commandes liées aux détails ;
 * l'existence des produits liés aux détails ;
-* l
